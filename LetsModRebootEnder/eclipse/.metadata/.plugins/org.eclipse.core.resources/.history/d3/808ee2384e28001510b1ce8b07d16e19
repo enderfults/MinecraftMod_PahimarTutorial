@@ -1,0 +1,7 @@
+package com.enderfults.letsmodender;
+
+@Mod(modid="LetsModRebootEnder", name="Lets Mod Reboot", version="1.8-1.0")
+public class LetsModEnderRebootEnder
+{
+
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LetsModRebootEnder</name>
+	<comment/>
+	<projects/>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources>
+		<link>
+			<name>common</name>
+			<type>2</type>
+			<location>C:/Eltopo/Projects/Minecraft/Pahimar/MinecraftMod_PahimarTutorial/common</location>
+		</link>
+		<link>
+			<name>jars</name>
+			<type>2</type>
+			<location>C:/Eltopo/Projects/Minecraft/Pahimar/MinecraftMod_PahimarTutorial/jars</location>
+		</link>
+		<link>
+			<name>lib</name>
+			<type>2</type>
+			<location>C:/Eltopo/Projects/Minecraft/Pahimar/MinecraftMod_PahimarTutorial/lib</location>
+		</link>
+	</linkedResources>
+</projectDescription>

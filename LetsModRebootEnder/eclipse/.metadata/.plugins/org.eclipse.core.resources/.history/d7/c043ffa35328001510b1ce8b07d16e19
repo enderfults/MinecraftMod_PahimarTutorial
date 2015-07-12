@@ -1,0 +1,16 @@
+[
+{
+  "modid": "letsmodender",
+  "name": "Lets Mod Reboot Ender",
+  "description": "Pahimar's Lets Mod Reboot series.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Enderfults"],
+  "credits": "The Forge and FML guys, for making this example. Pahimar for making the tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

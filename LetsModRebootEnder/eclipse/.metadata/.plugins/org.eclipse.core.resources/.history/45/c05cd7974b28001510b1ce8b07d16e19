@@ -1,0 +1,7 @@
+package com.enderfults.letsplayender;
+
+@Mod()
+public class LetsModEnderRebootEnder
+{
+
+}
